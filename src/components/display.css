@@ -1,0 +1,11 @@
+.display {
+    grid-column: span 4;
+    
+
+    display: flex; 
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 15px 10px;
+    font-size: 2em;
+    color: white;
+}
